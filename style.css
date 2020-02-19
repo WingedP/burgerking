@@ -7,6 +7,14 @@ nav {
     align-items: center;
 }
 
+.nav-item:hover {
+    background-color: purple;
+    color: rgb(243, 221, 24);
+    border-radius: 16px;
+    opacity: 1;
+    
+}
+
 .logo {
     padding-right: 10px;
 }
